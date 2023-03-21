@@ -1,2 +1,0 @@
-# portfoliotrybe
-Iniciando meu portfólio
