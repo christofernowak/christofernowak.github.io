@@ -21,8 +21,19 @@ nav {
     
      }
 p h2{
-    margin: 20;
+    margin: 5;
     padding: 10px;
+}
+
+#textoprincipal {
+  box-sizing: border-box;
+  flex: auto;
+  margin-left: 5;
+  padding: 10;
+  text-align: justify;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
     
 a:hover {
